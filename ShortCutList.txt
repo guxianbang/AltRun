@@ -1,0 +1,71 @@
+F104     |                    |Computer                      |我的电脑                      |::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+F1       |                    |Explorer                      |资源管理器                    |explorer.exe /e,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+F0       |                    |mspaint                       |画图                          |mspaint
+F2       |                    |msconfig                      |系统配置                      |msconfig
+F4       |                    |Reg                           |注册表编辑器                  |regedt32
+F1       |                    |myip                          |我的IP地址                    |nslookup
+F0       |                    |dev                           |设备管理器                    |devmgmt.msc
+F4       |                    |Taskmgr                       |任务管理器                    |taskmgr
+F6       |                    |ShutDown                      |立即关机                      |shutdown /s /t 5
+F0       |                    |Reboot                        |立即重启                      |shutdown /r /t 5
+
+F19      |URL_Query           |baidu                         |百度 搜索引擎                 |http://www.baidu.com/s?wd=
+F20      |UTF8_Query          |google                        |Google 搜索引擎               |http://www.google.com/search?q=
+F11      |URL_Query           |zd                            |百度知道 搜索引擎             |http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=
+F0       |UTF8_Query          |v                             |VeryCD 搜索引擎               |http://www.verycd.com/search/folders?kw=
+F0       |UTF8_Query          |y                             |Yahoo 搜索引擎                |http://search.yahoo.com/search?p=
+F12      |UTF8_Query          |Szhihu                        |知乎                          |https://www.google.com/#newwindow=1&q=site:zhihu.com+
+F8       |UTF8_Query          |Sdouban                       |豆瓣                          |https://www.google.com/#newwindow=1&q=site:douban.com+
+F8       |UTF8_Query          |Sv2ex                         |V2EX                          |https://www.google.com/#newwindow=1&q=site:v2ex.com/t+
+F8       |UTF8_Query          |Sweibo                        |微博                          |https://www.google.com/#newwindow=1&q=site:weibo.com+
+F8       |UTF8_Query          |Sebama                        |爸妈网                        |https://www.google.com/#newwindow=1&q=site:ebama.net+
+F40      |UTF8_Query          |taobao                        |淘宝                          |https://s.taobao.com/search?q=
+F11      |UTF8_Query          |daimugua                      |呆木瓜                        |http://md5.daimugua.com/search.aspx?q=
+
+
+
+F4       |                    |AddRemoveProgram              |添加/删除程序                 |appwiz.cpl
+F0       |                    |ControlPanel                  |控制面板                      |control.exe
+F1       |                    |InternetConnection            |Internet控制                  |control.exe Inetcpl.cpl ,4
+F1       |                    |SystemProperty                |系统属性                      |Sysdm.cpl
+F21      |                    |JieTu                         |JieTu                         |D:\PIC\JieTu
+F0       |                    |SendTo                        |SendTo                        |C:\Users\guxia\AppData\Roaming\Microsoft\Windows\SendTo
+F6       |                    |RiJi                          |docs.google.com/spreadsheets/d/1yWCkX5UtLbSHhxejpkiVjJXvdCJaL0rHkCIPr23atAY/edit#gid=0|https://docs.google.com/spreadsheets/d/1yWCkX5UtLbSHhxejpkiVjJXvdCJaL0rHkCIPr23atAY/edit#gid=0
+F9       |                    |xiaojieyu                     |【视频教学】零基础入门学习Python|D:\编程视频\【视频教学】零基础入门学习Python
+F22      |                    |FSCapture                     |FSCapture                     |"D:\!greenSoft\FastStoneCapture 8.4 PortableSoft\FastStoneCapturePortable\FSCapture.exe"
+F1       |                    |BaiduYunGuanjia               |BaiduYunGuanjia               |D:\greenSoft\百度干净云大神版\BaiduYunGuanjia.exe
+F6       |                    |qqyouxiang                    |mail.qq.com                   |https://mail.qq.com
+F7       |                    |CCleaner64                    |CCleaner64                    |C:\Program Files\CCleaner\CCleaner64.exe
+F0       |                    |DocFetcher                    |DocFetcher                    |C:\Program Files (x86)\DocFetcher\DocFetcher.exe
+F8       |                    |Snipaste                      |Snipaste                      |D:\!greenSoft\Snipaste-1.9.1-x64\Snipaste.exe
+F7       |                    |kuaijiefangshi                |kuaijiefangshi                |D:\kuaijiefangshi
+F11      |                    |Downloads                     |Downloads                     |D:\Downloads
+F1       |                    |kuandai                       |宽带连接 - 快捷方式           |"D:\kuaijiefangshi\宽带连接 - 快捷方式.lnk"
+F1       |                    |startup                       |Startup                       |C:\Users\guxia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+F0       |                    |photos.google.com             |photos.google.com             |https://photos.google.com/
+F13      |UTF8_Query          |zhihu                         |知乎                          |https://www.zhihu.com/search?type=content&q=
+F2       |                    |Close Class=                  |@WinCtl Close Class=”CabinetWClass”|@WinCtl Close Class=”CabinetWClass”
+
+F1       |UTF8_Query          |panc.cc                       |胖次                          |http://panc.cc/s/
+F0       |UTF8_Query          |szhihu                        |知乎                          |https://www.google.com/#newwindow=1&q=site:zhihu.com+
+F10      |UTF8_Query          |music.163.com                 |music.163.com                 |http://music.163.com/#/search/m/?s=
+F1       |UTF8_Query          |xiami                         |虾米                          |http://www.xiami.com/search?key=
+F1       |UTF8_Query          |weixin.sogou.com              |weixin.sogou.com              |http://weixin.sogou.com/weixin?type=2&s_from=input&query=
+F8       |                    |weixingongzhong               |mp.weixin.qq.com              |https://mp.weixin.qq.com/
+F2       |UTF8_Query          |pan.baidu.com                 |pan.baidu.com                 |http://pan.baidu.com/disk/home#search/key=
+F0       |                    |yinxiangbiji                  |印象笔记                      |https://app.yinxiang.com/Home.action
+F1       |                    |qun.qzone.qq.com              |qun.qzone.qq.com              |http://qun.qzone.qq.com/group
+F1       |                    |abbyy                         |FineReader                    |"D:\Downloads\ABBYY FineReader 11识别软件\ABBYY FineReader 11识别软件\FineReader.exe"
+F5       |                    |gidot typesetter              |gidot typesetter              |"D:\!greenSoft\排版助手GidotTypesetter_3.1.1.2\排版助手\gidot typesetter.exe"
+F15      |                    |Shadowsocks                   |Shadowsocks                   |D:\!greenSoft\Shadowsocks\Shadowsocks.exe
+F5       |URL_Query           |sina                          |down.tech.sina.com.cn         |http://down.tech.sina.com.cn/download/search.php?ie=utf-8&f_name=
+F1       |                    |Ditto                         |Ditto                         |D:\!greenSoft\DittoPortable_64bit_3_20_54_0\Ditto\Ditto.exe
+F3       |                    |TOTALCMD64                    |TOTALCMD64                    |C:\totalcmd\TOTALCMD64.EXE
+F2       |                    |aria2c.com                    |aria2c.com                    |http://aria2c.com/
+F1       |UTF8_Query          |translate.google.cn/#en/zh-CN |translate.google.cn/#en/zh-CN |https://translate.google.cn/#en/zh-CN/
+F8       |                    |ALTRun                        |ALTRun                        |.
+F1       |UTF8_Query          |amazon                        |www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Daps&field-keywords=|https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=亚马逊网站&url=search-alias%3Daps&field-keywords=
+F1       |UTF8_Query          |douban                        |www.douban.com/search?source=suggest&q=|https://www.douban.com/search?source=suggest&q=
+F2       |                    |webnote                       |www.aypwip.org                |http://www.aypwip.org/webnote/guxianbang
+F3       |UTF8_Query          |youtube                       |www.youtube.com/results?search_query=|https://www.youtube.com/results?search_query=
+F1       |URL_Query           |2.taobao.com/list/list.htm?q= |2.taobao.com/list/list.htm?q= |https://2.taobao.com/list/list.htm?q=
